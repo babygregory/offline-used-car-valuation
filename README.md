@@ -6,12 +6,12 @@ Ensure index.html file path when executing this line of code: **python -m http.s
 
 ## Example:
 Project/
-  index.html
-  artifacts/
-    malaysia_make_models.json
-    feature_importance_ui.json
-    scatter_ui.json
-    model_metrics.json
+├── index.html
+└── artifacts/
+    ├── malaysia_make_models.json
+    ├── feature_importance_ui.json
+    ├── scatter_ui.json
+    └── model_metrics.json
     
 Cmd line type cd project
 Next command type python -m http.server 8000
