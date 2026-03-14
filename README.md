@@ -16,6 +16,6 @@ Project/
     
 Cmd line type cd project
 Next command type python -m http.server 8000
-
+```
 
 ## 2. Then open browser: Type http://localhost:8000/
