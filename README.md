@@ -5,6 +5,7 @@
 Ensure index.html file path when executing this line of code: **python -m http.server 8000**
 
 ## Example:
+```text
 Project/
 ├── index.html
 └── artifacts/
